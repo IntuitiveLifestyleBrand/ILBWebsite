@@ -23,7 +23,8 @@ a:visited{
   font-size: 3em; 
   font-weight: 600; 
   font-family:Bratsy;
-  margin-bottom: -5px;
+  margin-bottom: -3px;
+
 }
 #mainimgDiv{
   width: 100%;
@@ -77,7 +78,7 @@ a:visited{
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 320px) {
   #mainlogoDiv {
-    font-size: 15px;
+    font-size: 25px;
     margin-top: 7%;
   }
   #mainimgDiv{
@@ -95,7 +96,7 @@ a:visited{
 }
 @media screen and (max-width: 360px) {
   #mainlogoDiv {
-    font-size: 15px;
+    font-size: 25px;
     margin-top: 7%;
   }
   #mainimgDiv{
@@ -113,7 +114,7 @@ a:visited{
 }
 @media screen and (max-width: 414px) {
   #mainlogoDiv {
-    font-size: 15px;
+    font-size: 25px;
     margin-top: 5%;
   }
   #mainimgDiv{
@@ -130,7 +131,7 @@ a:visited{
 }
 @media screen and (max-width: 480px) {
   #mainlogoDiv {
-    font-size: 15px;
+    font-size: 25px;
     margin-top: 7%;
     margin-bottom: -10px;
   }
@@ -184,14 +185,13 @@ a:visited{
 }
 @media screen and (max-width: 800px) {
   #mainlogoDiv {
-    font-size: 12px;
-    margin-top: 7%;
+    font-size: 25px;
+    margin-top: 10%;
   }
   #mainimgDiv{
     width: 100%;
     text-align: center;
     border-radius: 1em;
-    margin-top: 1%;
  }
   #goodsDiv {
     display: block;
